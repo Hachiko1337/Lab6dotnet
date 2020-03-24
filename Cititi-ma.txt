@@ -1,0 +1,1 @@
+Acest laborator reprezinta rezultatul urmaririi documentului WCF si EF Exemplu cu Post si Comment de pe site-ul https://profs.info.uaic.ro/~iasimin/
